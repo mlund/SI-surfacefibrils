@@ -9,4 +9,4 @@ dependencies:
     - pandas
     - matplotlib
     - notebook
-    - openmm=7.1
+    - openmm=7.1.0rc1
