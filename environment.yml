@@ -1,0 +1,10 @@
+name: surfacefibrils
+channels:
+    - conda-forge
+dependencies:
+    - python=3
+    - numpy
+    - scipy
+    - pandas
+    - matplotlib
+    - notebook
