@@ -12,5 +12,5 @@ To open this Notebook, install python via [(Mini)conda](https://www.continuum.io
 by issuing the following terminal commands,
 
     conda env create -f environment.yml
-    source activate cppm
+    source activate surfacefibrils
     jupyter-notebook montecarlo.ipynb
