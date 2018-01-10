@@ -1,9 +1,10 @@
-# Aggregate size dependence of amyloid adsorption to charged interfaces
+# Aggregate Size Dependence of Amyloid Adsorption onto Charged Interfaces
 
-This repository contains a [Jupyter](http://jupyter.org) Notebook for studying amyloid adsorption to an oppositely charged surface.
+This repository contains [Jupyter](http://jupyter.org) Notebooks, as well as experimental and simulation data, for reproducing the work of the scientific paper *Aggregate Size Dependence of Amyloid Adsorption onto Charged Interfaces* published in Langmuir [DOI: 10.1021/acs.langmuir.7b03155](http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.7b03155).
 The layout is as follows:
 
 - `notebook.ipynb` - Jupyter Notebook for compiling, running, and plotting all MC simulation data, experimental results, and results from the analytical line segment theory
+- `notebook.html` - Jupyter Notebook in HTML format 
 - `environment.yml` - Environment file for setting up dependencies for Anaconda
 - `mc/` - Directory with Monte Carlo data and C++ code
 - `exp/` - Directory with QCM-D and AFM experimental data 
