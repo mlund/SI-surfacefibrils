@@ -20,3 +20,5 @@ To open this Notebook, install python via [(Mini)conda](https://www.continuum.io
     conda env create -f environment.yml
     source activate surfacefibrils
     jupyter-notebook notebook.ipynb
+
+Alternatively, you may try the _Launch Binder_ link at the top of this page which will automatically setup an online Jupyter environment and import the SI.
